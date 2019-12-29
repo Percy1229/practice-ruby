@@ -1,5 +1,7 @@
 # README
 
+This is the repository for the practice that I create a easy web app through VScode and Terminal on Mac.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
